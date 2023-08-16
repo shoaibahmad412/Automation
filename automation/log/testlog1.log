@@ -1,0 +1,95 @@
+2023-08-16 02:54:32,332 [main] INFO automation.test - hi
+2023-08-16 03:00:54,133 [main] INFO automation.test - hi
+2023-08-16 03:01:04,000 [main] INFO automation.test - Surfing the site
+2023-08-16 03:01:32,077 [main] INFO automation.test - hi
+2023-08-16 03:01:39,275 [main] INFO automation.test - Surfing the site
+2023-08-16 03:01:39,469 [main] INFO automation.test - Double Click has been pressed
+2023-08-16 03:02:37,076 [main] INFO automation.test - hi
+2023-08-16 03:02:44,058 [main] INFO automation.test - Surfing the site
+2023-08-16 03:02:44,265 [main] INFO automation.test - Double Click has been pressed
+2023-08-16 05:12:50,337 [main] INFO automation.test - hi
+2023-08-16 05:25:28,781 [main] INFO automation.test - hi
+2023-08-16 05:36:25,109 [main] INFO automation.test - Site surfing passed
+2023-08-16 05:45:23,983 [main] INFO automation.test - Site surfing passed
+2023-08-16 05:46:27,366 [main] INFO automation.test - Site surfing passed
+2023-08-16 05:48:13,405 [main] INFO automation.test - Site surfing passed
+2023-08-16 05:48:54,720 [main] INFO automation.test - Site surfing passed
+2023-08-16 05:52:14,827 [main] INFO automation.test - Site surfing passed
+2023-08-16 05:55:02,346 [main] INFO automation.test - Site surfing passed
+2023-08-16 06:03:01,173 [main] INFO automation.test - Site surfing passed
+2023-08-16 06:03:46,415 [main] INFO automation.test - Site surfing passed
+2023-08-16 06:06:57,689 [main] INFO automation.test - Site surfing passed
+2023-08-16 06:07:28,866 [main] INFO automation.test - Site surfing passed
+2023-08-16 06:09:30,493 [main] INFO automation.test - Site surfing passed
+2023-08-16 06:10:44,382 [main] INFO automation.test - Site surfing passed
+2023-08-16 06:10:45,737 [main] INFO automation.test - Manager has logged in to server
+2023-08-16 06:13:39,524 [main] INFO automation.test - Site surfing passed
+2023-08-16 06:13:40,741 [main] INFO automation.test - Manager has logged in to server
+2023-08-16 06:14:29,523 [main] INFO automation.test - Site surfing passed
+2023-08-16 06:14:40,114 [main] INFO automation.test - Manager has logged in to server
+2023-08-16 06:19:39,984 [main] INFO automation.test - Site surfing passed
+2023-08-16 06:19:50,698 [main] INFO automation.test - Manager has logged in to server
+2023-08-16 06:21:37,342 [main] INFO automation.test - Site surfing passed
+2023-08-16 06:21:48,056 [main] INFO automation.test - Manager has logged in to server
+2023-08-16 06:25:17,948 [main] INFO automation.test - Site surfing passed
+2023-08-16 06:25:23,512 [main] INFO automation.test - Manager has logged in to server
+2023-08-16 06:31:11,702 [main] INFO automation.test - Site surfing passed
+2023-08-16 06:31:12,969 [main] INFO automation.test - Manager has logged in to server
+2023-08-16 06:31:13,627 [main] INFO automation.test - Customer add tab open
+2023-08-16 06:33:54,792 [main] INFO automation.test - Site surfing passed
+2023-08-16 06:33:56,659 [main] INFO automation.test - Manager has logged in to server
+2023-08-16 06:33:57,333 [main] INFO automation.test - Customer add tab open
+2023-08-16 06:33:58,406 [main] INFO automation.test - Customer detail added
+2023-08-16 06:36:00,084 [main] INFO automation.test - Site surfing passed
+2023-08-16 06:36:01,919 [main] INFO automation.test - Manager has logged in to server
+2023-08-16 06:36:02,549 [main] INFO automation.test - Customer add tab open
+2023-08-16 06:36:03,936 [main] INFO automation.test - Customer detail added
+2023-08-16 06:39:15,745 [main] INFO automation.test - Site surfing passed
+2023-08-16 06:39:17,733 [main] INFO automation.test - Manager has logged in to server
+2023-08-16 06:39:18,887 [main] INFO automation.test - Customer add tab open
+2023-08-16 06:39:20,159 [main] INFO automation.test - Customer detail added
+2023-08-16 06:39:20,315 [main] INFO automation.test - Customer Account opened
+2023-08-16 06:41:46,090 [main] INFO automation.test - Site surfing passed
+2023-08-16 06:41:47,341 [main] INFO automation.test - Manager has logged in to server
+2023-08-16 06:41:48,655 [main] INFO automation.test - Customer add tab open
+2023-08-16 06:41:50,160 [main] INFO automation.test - Customer detail added
+2023-08-16 06:41:50,422 [main] INFO automation.test - Customer Account opened
+2023-08-16 06:46:55,058 [main] INFO automation.test - Site surfing passed
+2023-08-16 06:46:56,828 [main] INFO automation.test - Manager has logged in to server
+2023-08-16 06:46:57,525 [main] INFO automation.test - Customer add tab open
+2023-08-16 06:46:59,102 [main] INFO automation.test - Customer detail added
+2023-08-16 06:48:33,703 [main] INFO automation.test - Site surfing passed
+2023-08-16 06:48:35,208 [main] INFO automation.test - Manager has logged in to server
+2023-08-16 06:48:35,868 [main] INFO automation.test - Customer add tab open
+2023-08-16 06:48:37,291 [main] INFO automation.test - Customer detail added
+2023-08-16 06:51:53,420 [main] INFO automation.test - Site surfing passed
+2023-08-16 06:51:55,221 [main] INFO automation.test - Manager has logged in to server
+2023-08-16 06:51:55,895 [main] INFO automation.test - Customer add tab open
+2023-08-16 06:51:57,545 [main] INFO automation.test - Customer detail added
+2023-08-16 06:51:59,244 [main] INFO automation.test - Customer Account opened
+2023-08-16 06:53:33,359 [main] INFO automation.test - Site surfing passed
+2023-08-16 06:53:34,663 [main] INFO automation.test - Manager has logged in to server
+2023-08-16 06:53:35,412 [main] INFO automation.test - Customer add tab open
+2023-08-16 06:53:37,240 [main] INFO automation.test - Customer detail added
+2023-08-16 06:53:38,408 [main] INFO automation.test - Customer Account opened
+2023-08-16 06:57:19,445 [main] INFO automation.test - Site surfing passed
+2023-08-16 06:57:20,792 [main] INFO automation.test - Manager has logged in to server
+2023-08-16 06:57:22,024 [main] INFO automation.test - Customer add tab open
+2023-08-16 06:57:23,227 [main] INFO automation.test - Customer detail added
+2023-08-16 06:57:24,561 [main] INFO automation.test - Customer Account opened
+2023-08-16 07:01:09,993 [main] INFO automation.test - Site surfing passed
+2023-08-16 07:01:11,270 [main] INFO automation.test - Manager has logged in to server
+2023-08-16 07:01:12,432 [main] INFO automation.test - Customer add tab open
+2023-08-16 07:01:13,785 [main] INFO automation.test - Customer detail added
+2023-08-16 07:01:15,159 [main] INFO automation.test - Customer Account opened
+2023-08-16 07:03:11,769 [main] INFO automation.test - Site surfing passed
+2023-08-16 07:03:13,054 [main] INFO automation.test - Manager has logged in to server
+2023-08-16 07:03:13,709 [main] INFO automation.test - Customer add tab open
+2023-08-16 07:03:14,901 [main] INFO automation.test - Customer detail added
+2023-08-16 07:03:16,095 [main] INFO automation.test - Customer Account opened
+2023-08-16 07:05:24,616 [main] INFO automation.test - Site surfing passed
+2023-08-16 07:05:25,894 [main] INFO automation.test - Manager has logged in to server
+2023-08-16 07:05:26,522 [main] INFO automation.test - Customer add tab open
+2023-08-16 07:05:27,933 [main] INFO automation.test - Customer detail added
+2023-08-16 07:05:29,346 [main] INFO automation.test - Customer Account opened
+2023-08-16 07:05:29,682 [main] INFO automation.test - Customer has logged in to server
